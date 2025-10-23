@@ -1,1 +1,9 @@
-{ "redirects": [ { "source": "/**", "destination": "/", "status": 200 } ] } 
+{
+  "redirects": [
+    {
+      "source": "/**",
+      "destination": "/",
+      "status": 200
+    }
+  ]
+}
